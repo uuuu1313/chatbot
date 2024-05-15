@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7711824b-9dc3-4e09-bcb6-c79def706e1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/fine_tuning_chatbot/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/fine_tuning_chatbot/pages/index.js" afterDir="false" />
+    <list default="true" id="7711824b-9dc3-4e09-bcb6-c79def706e1f" name="Changes" comment="프로젝트 세팅">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/fine_tuning_chatbot/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/fine_tuning_chatbot/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/fine_tuning_chatbot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/fine_tuning_chatbot/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "uuuu1313"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;uuuu1313&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/uuuu1313/chatbot.git",
-    "accountId": "681cb70e-c7dc-47ae-b298-78fcdca94038"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/uuuu1313/chatbot.git&quot;,
+    &quot;accountId&quot;: &quot;681cb70e-c7dc-47ae-b298-78fcdca94038&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -46,13 +48,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715758104104</updated>
     </task>
+    <task id="LOCAL-00001" summary="프로젝트 세팅">
+      <option name="closed" value="true" />
+      <created>1715763645835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715763645835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="프로젝트 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로젝트 세팅" />
   </component>
 </project>
