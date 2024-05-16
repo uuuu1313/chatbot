@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',            # Django REST framework 앱
+    'rest_framework.authtoken',
     'fine_tuning_chatbot',     # startapp으로 생성한 앱
     'corsheaders',       # Django CORS 설정
 ]
@@ -143,3 +144,11 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 CORS_ALLOWED_CREDENTIALS = True
 # CORS 추가 E
+
+# Rest Framework S
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.TokenAuthentication', # 토근 인증 활성화
+    ]
+}
+# Rest Framework E
