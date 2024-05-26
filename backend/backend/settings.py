@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',            # Django REST framework 앱
-    'rest_framework.authtoken',
+    'rest_framework.authtoken',  # Auth Token 설정
     'fine_tuning_chatbot',     # startapp으로 생성한 앱
     'corsheaders',       # Django CORS 설정
 ]
